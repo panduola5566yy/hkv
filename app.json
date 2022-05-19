@@ -1,13 +1,13 @@
 {
-  "name": "heroku-vless",
-  "description": "Deploy vless on Heroku.",
+  "name": "yy",
+  "description": "Deploy yy.",
   "keywords": [
     "vless"
   ],
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
+      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb108"
     }
   },
   "website": "https://github.com/rptec/",

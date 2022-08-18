@@ -2,7 +2,7 @@
   "name": "yy",
   "description": "Deploy yy.",
   "keywords": [
-    "vless"
+    "vl"
   ],
   "env": {
     "UUID": {
@@ -10,7 +10,7 @@
       "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb108"
     }
   },
-  "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "website": "https://github.com/panduola5566yy/",
+  "repository": "https://github.com/panduola5566yy/hkvl123",
   "stack": "container"
 }
